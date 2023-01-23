@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.section4{
+margin-left: 35%;
+    
+}
+.Message{
+    font-size: 3rem;
+}
+
+.firstName{
+    width: 302px;
+}
+.lastName{
+    width: 302px;
+    
+}
+.subject{
+    width: 604px;
+    margin-top: 2rem;
+}
+
+.email{
+    width: 604px;
+}
+.textArea{
+    width: 604px;
+    height: 302px;
+}

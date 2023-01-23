@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.OurPrograms{
+    text-align: center;
+    font-size: 3rem;
+}
+.title1{
+    text-align: center;
+}
+
+/* .education .image1{
+    width: 8rem;
+    height: 4rem;
+} */
+
+.icon1{
+    background-color: #7971ea;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 100%;
+    text-align: center;
+}
+.icon2{
+    background-color: #7971ea;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 100%;
+    text-align: center;
+}
+
+.icondiv{
+    display: flex;
+    gap: 1rem;
+}
+
+.education{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+}
+
+.image1{
+    width: 30%;
+    
+}
